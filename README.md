@@ -9,9 +9,6 @@ model5.h5 is a trial hand-made model, generated with the 5 first dog breeds in t
 
 wholemodel.h5 is the best hand-made model I could create for the 120 dog breeds.
 
-wholemodelvgg.h5 is a VGG16 re-train.
-
-wholemodelres.h5 is a ResNet50 re-train. It is the best model I could make.
 
 # Main File
 
